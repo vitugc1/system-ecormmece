@@ -1,4 +1,4 @@
-                             PROJETO EM ANDAMENTO
+                                                           PROJETO EM ANDAMENTO
 # COMO RODAR O PROJETO
 Só precisa instalar o "YARN" ou "NPM", pelo terminal do VSCODE vc pode fazer isso.
 Abra o terminal do VSCODE e digite YARN e espere instalar, depos que estiver instalado e só digitar YARN START é esperar carregar o projeto
